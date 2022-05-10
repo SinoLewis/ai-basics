@@ -1,0 +1,72 @@
+ML - the accuracy of the system is improving over time, with the addition of more data and feedback.
+AI - researchers originally created rules for computers to make decisions.
+
+Applications of ML
+1. Web search
+2. Computational
+3. Finance
+4. E-commerce
+5. Space exploration
+6. Robotics
+7. Information extraction
+
+Limitations of ML
+1. Overfitting - the machine predicts outcomes based on historical data, but does not adapt to new variables
+
+Components of every ML algorithms
+1. Representation: how to represent knowledge. Examples include decision trees, sets of rules, instances, graphical models, neural networks, support vector machines, model ensembles and others.
+2. Evaluation: the way to evaluate candidate programs (hypotheses). Examples include accuracy, prediction and recall, squared error, likelihood, posterior probability, cost, margin, entropy k-L divergence and others.
+3. Optimization: the way candidate programs are generated known as the search process. For example combinatorial optimization, convex optimization, constrained optimization.
+
+Types of ML algorithms
+1. supervised - Training data includes desired outputs.
+2. semi-supervised - Training data does not include desired outputs.
+3. unsupervised - Training data includes a few desired outputs.
+4. reinforcement - Rewards from a sequence of actions.  AI types like it
+5. Inductive Learning - given a function data(x) & the output of the function f(x)
+    - The goal of inductive learning is to learn the function for new data (x).
+
+ML Terminologies.
+classification is about predicting a label and regression is about predicting a quantity.
+
+1. Classification 
+-  supervised learning with labeled data ie. binary or multi-class classifiers
+- eg. decision tree, Bayes, k-nearest neighbor, and artificial neural networks.
+
+2. Clustering
+- Clustering is a form of unsupervised learning with unlabeled data
+- involves grouping data points according to features and attributes.
+- eg. K-means clustering
+- eg. A hospital wants to locate emergency units at the minimum possible distance from areas where accidents frequently happen
+
+3. Regression
+- Regressions create relationships and correlations between different types of data.
+- machine learning acknowledges that a certain pixel arrangement corresponds to a given name and allows for facial recognition
+- Linear regression provides outputs with continuous variables 
+- Logistical regression is when variables are categorically dependent
+
+4. Deep Learning
+- Deep learning is similar to machine learning
+- Its an application of machine learning that imitates the workings of the human brain.
+- Deep learning networks interpret big data both unstructured and structured and recognize patterns.
+- eg. Chatbots and virtual assistants, Recommendation engines, Real-time bidding
+
+5. Neural network (Inspired by the human brain.)
+- Neural networks are closely related to deep learning.
+- They create sequential layers of neurons that deepen the understanding of data collected from a machine to provide an accurate analysis.
+- A neural network consists of layers of nodes, which receive stimulation from “trigger” data
+- This data then is assigned a weight through coefficients, as some data inputs may be more significant than others.
+- Neurons normally come in three different layers: an input layer of data, a hidden layer
+
+6. Big data - data that is too large to fit on a single computer
+7. Natural language processing - the subfield of AI that processes human languages.
+
+
+The top 7 techniques Natural Language Processing (NLP) uses to extract data from text are:
+    Sentiment Analysis.
+    Named Entity Recognition.
+    Summarization.
+    Topic Modeling.
+    Text Classification.
+    Keyword Extraction.
+    Lemmatization and stemming.
