@@ -1,1 +1,2 @@
-DeepFaceLab/dfl-venv/
+**/*venv*/
+**/.ipynb_checkpoints/
