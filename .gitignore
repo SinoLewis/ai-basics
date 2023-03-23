@@ -1,2 +1,5 @@
 **/*venv*/
 **/.ipynb_checkpoints/
+DFL/pretrain
+DFL/pretrain_Q96
+DFL/dfl_content.zip
