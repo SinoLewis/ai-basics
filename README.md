@@ -1,6 +1,7 @@
 # Machine Learning Colabs
 
-> This repo contains various ML projects. enjoy
+This repo contains various basic ML concepts to kick start your AI development.
+Jupyter Notebooks are preffered to understand the applications
 
 ## Jupyter Notebooks
 
