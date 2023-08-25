@@ -1,5 +1,12 @@
 # AI-Basics 🤖
 
+[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](./LICENSE)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](./LICENSE)
+[![Dicord: Invite](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](./LICENSE)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](./LICENSE)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](./LICENSE)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](./LICENSE)
+
 Welcome to the AI-Basics project! This project aims to provide a comprehensive introduction to basic Machine Learning (ML) concepts. Whether you're a beginner or looking to refresh your knowledge, AI-Basics has got you covered. 🚀
 
 ## Project Overview 🌟
