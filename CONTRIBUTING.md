@@ -59,7 +59,7 @@ By participating in this project, you agree to abide by the [Code of Conduct](CO
 
 Thank you for contributing to AI-Basics! Your efforts help create a valuable learning resource for aspiring AI enthusiasts. 🚀
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
 ---
 

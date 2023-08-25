@@ -104,7 +104,7 @@ Now that you're all set up, it's time to dive into the fascinating world of AI a
 
 **Happy Learning!** 🧠💡
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
 ---
 
